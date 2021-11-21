@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;600&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: rgb(27, 27, 27);
+}
